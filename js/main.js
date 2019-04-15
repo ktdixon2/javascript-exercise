@@ -21,6 +21,7 @@ const createStudentComponent = (student) => {
     return studentComponent
 }
 
+
 //What to do with the result//
 
 
